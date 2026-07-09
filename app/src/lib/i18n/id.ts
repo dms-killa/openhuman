@@ -5443,6 +5443,10 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'Teks terbesar untuk keterbacaan maksimal.',
   'settings.appearance.fontSizeHelperText':
     'Menskalakan teks di seluruh aplikasi — obrolan, pengaturan, dan panel — terlepas dari pengaturan font sistem Anda.',
+  'settings.appearance.fontSizeCustomLabel': 'Ukuran khusus',
+  'settings.appearance.fontSizeCustomAria': 'Ukuran font khusus dalam piksel',
+  'settings.appearance.fontSizeCustomSliderAria': 'Penggeser ukuran font khusus, dalam piksel',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': 'Bilah tab bawah',
   'settings.appearance.tabBarAlwaysShowLabels': 'Selalu tampilkan label',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':

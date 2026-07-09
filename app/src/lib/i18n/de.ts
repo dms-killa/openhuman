@@ -5572,6 +5572,11 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'Der größte Text für maximale Lesbarkeit.',
   'settings.appearance.fontSizeHelperText':
     'Skaliert den Text in der gesamten App — Chat, Einstellungen und Bereiche — unabhängig von der Schrifteinstellung deines Systems.',
+  'settings.appearance.fontSizeCustomLabel': 'Benutzerdefinierte Größe',
+  'settings.appearance.fontSizeCustomAria': 'Benutzerdefinierte Schriftgröße in Pixeln',
+  'settings.appearance.fontSizeCustomSliderAria':
+    'Schieberegler für benutzerdefinierte Schriftgröße, in Pixeln',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': 'Untere Tab-Leiste',
   'settings.appearance.tabBarAlwaysShowLabels': 'Beschriftungen immer anzeigen',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':

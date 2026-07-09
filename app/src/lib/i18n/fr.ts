@@ -5546,6 +5546,11 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'Le texte le plus grand, pour une lisibilité maximale.',
   'settings.appearance.fontSizeHelperText':
     'Ajuste la taille du texte dans toute l’application — chat, paramètres et panneaux — indépendamment du réglage de police de votre système.',
+  'settings.appearance.fontSizeCustomLabel': 'Taille personnalisée',
+  'settings.appearance.fontSizeCustomAria': 'Taille de police personnalisée en pixels',
+  'settings.appearance.fontSizeCustomSliderAria':
+    'Curseur de taille de police personnalisée, en pixels',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': "Barre d'onglets inférieure",
   'settings.appearance.tabBarAlwaysShowLabels': 'Toujours afficher les étiquettes',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':

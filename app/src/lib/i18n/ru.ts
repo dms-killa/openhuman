@@ -5480,6 +5480,11 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'Самый крупный текст для максимальной читаемости.',
   'settings.appearance.fontSizeHelperText':
     'Масштабирует текст во всём приложении — чат, настройки и панели — независимо от системных настроек шрифта.',
+  'settings.appearance.fontSizeCustomLabel': 'Пользовательский размер',
+  'settings.appearance.fontSizeCustomAria': 'Пользовательский размер шрифта в пикселях',
+  'settings.appearance.fontSizeCustomSliderAria':
+    'Ползунок пользовательского размера шрифта, в пикселях',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': 'Нижняя панель вкладок',
   'settings.appearance.tabBarAlwaysShowLabels': 'Всегда показывать метки',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':

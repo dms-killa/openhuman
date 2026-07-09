@@ -5304,6 +5304,10 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'أكبر حجم للنص لأقصى قدر من الوضوح.',
   'settings.appearance.fontSizeHelperText':
     'يضبط حجم النص في التطبيق بأكمله — المحادثة والإعدادات واللوحات — بشكل مستقل عن إعداد خط نظامك.',
+  'settings.appearance.fontSizeCustomLabel': 'حجم مخصص',
+  'settings.appearance.fontSizeCustomAria': 'حجم الخط المخصص بالبكسل',
+  'settings.appearance.fontSizeCustomSliderAria': 'شريط تمرير حجم الخط المخصص، بالبكسل',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': 'شريط علامات التبويب السفلي',
   'settings.appearance.tabBarAlwaysShowLabels': 'إظهار التسميات دائمًا',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':

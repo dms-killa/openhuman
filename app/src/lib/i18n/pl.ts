@@ -5506,6 +5506,11 @@ const messages: TranslationMap = {
   'settings.appearance.fontSizeXLargeDesc': 'Największy tekst dla maksymalnej czytelności.',
   'settings.appearance.fontSizeHelperText':
     'Skaluje tekst w całej aplikacji — czat, ustawienia i panele — niezależnie od ustawienia czcionki w systemie.',
+  'settings.appearance.fontSizeCustomLabel': 'Rozmiar niestandardowy',
+  'settings.appearance.fontSizeCustomAria': 'Niestandardowy rozmiar czcionki w pikselach',
+  'settings.appearance.fontSizeCustomSliderAria':
+    'Suwak niestandardowego rozmiaru czcionki, w pikselach',
+  'settings.appearance.fontSizeUnit': 'px',
   'settings.appearance.tabBarHeading': 'Dolny pasek zakładek',
   'settings.appearance.tabBarAlwaysShowLabels': 'Zawsze pokazuj etykiety',
   'settings.appearance.tabBarAlwaysShowLabelsDesc':
