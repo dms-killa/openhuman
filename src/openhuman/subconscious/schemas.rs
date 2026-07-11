@@ -127,7 +127,8 @@ fn handle_status(_params: Map<String, Value>) -> ControllerFuture {
 
 fn handle_trigger(params: Map<String, Value>) -> ControllerFuture {
     Box::pin(async move {
-        // `kind`: "memory" (default) or "all".
+        // `kind`: "memory" (default) or "all". (`tinyplace` was retired with the
+        // hosted-brain migration, #4738.)
         let raw = params
             .get("kind")
             .and_then(|v| v.as_str())

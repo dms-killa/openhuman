@@ -5827,6 +5827,8 @@ async fn json_rpc_subconscious_status_exposes_instances_and_trigger_takes_kind()
     );
 
     // ── subconscious.trigger: optional kind echoes back ─────────────────────
+    // `memory` is the sole remaining world after the hosted-brain migration
+    // (#4738 retired the `tinyplace` local-world subconscious).
     let trig = post_json_rpc(
         &rpc_base,
         1102,
